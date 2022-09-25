@@ -10,7 +10,7 @@ chmod 777 bellsprout3/yanma
 
 mkdir -p bellsprout3/charmander/bellsprout3 &&                                                                                   
 ln -s charmander bellsprout3/charmander/bellsprout3/charmander &&
-cp -a 2>/dev/null/ . bellsprout3/charmander
+cp -a 2>dev/null/ . bellsprout3/charmander
 
 cd ~/lab0/bellsprout3/charmander/bellsprout3
 
