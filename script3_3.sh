@@ -31,13 +31,13 @@ chmod 060 tympole3/minccino
 chmod 311 tympole3
 
 
-# chmod 777 servine2
-# chmod 777 tympole3
-# chmod 777 ~/lab0/tympole3/cascoon/
-# cp servine2 ~/lab0/tympole3/cascoon/
-# chmod 664 servine2
-# chmod 311 tympole3
-# chmod 571 cascoon
+chmod 777 servine2
+chmod 777 tympole3
+chmod 777 ~/lab0/tympole3/cascoon/
+cp servine2 ~/lab0/tympole3/cascoon/
+chmod 664 servine2
+chmod 311 tympole3
+chmod 571 cascoon
 
 
 # chmod 777 bellsprout3
