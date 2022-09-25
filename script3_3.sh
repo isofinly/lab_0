@@ -34,7 +34,6 @@ cd ..
 chmod 512 bellsprout3
 
 
-
 chmod 777 servine2
 cat ~/lab0/servine2 > ~/lab0/minccinoservine
 chmod 664 servine2
