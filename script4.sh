@@ -45,3 +45,5 @@ chmod 311 tympole3
 ls -lR 2> /dev/null | grep "se" 2> /dev/null | sort -k 9 -r | tail -2
 
 ls 2> /tmp/errorlog | grep -v / 2> /tmp/errorlog | sort
+
+ls -lR 2>/tmp/errorlog | grep "o$"  2>&/tmp/errorlog | sort -k 2 -n| tail -3
