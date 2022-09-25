@@ -27,3 +27,4 @@ chmod 577 hitmonlee
 chmod 060 minccino
 chmod 751 conkeldurr
 cd ..
+chmod 060 minccino
