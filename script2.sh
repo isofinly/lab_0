@@ -1,4 +1,5 @@
-cd ..
+#cd ..
+cd lab0
 chmod 512 bellsprout3
 cd bellsprout3
 chmod 006 accelgor
