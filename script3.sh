@@ -1,14 +1,14 @@
-chmod  777 bellsprout3
+chmod  777 ~/lab0/bellsprout3/bellsprout3
 cp -R * bellsprout3 ~/lab0/bellsprout3/charmander/
-chmod 512 bellsprout3
+chmod 512 ~/lab0/bellsprout3/bellsprout3
 
-chmod 777 servine2
+chmod 777 ~/lab0/servine2
 cp servine2 ~/lab0/tympole3/cascoon/
-chmod 664 servine2
+chmod 664 ~/lab0/servine2
 
-chmod 777 bellsprout3
+chmod 777 ~/lab0/bellsprout3/bellsprout3
 ln -s ~/lab0/bellsprout3 Copy_83
-chmod 512 bellsprout3
+chmod 512 ~/lab0/bellsprout3/bellsprout3
 
 chmod 777 ~/lab0/ledian8
 chmod 777 ~/lab0/cyndaquil6
