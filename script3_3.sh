@@ -37,7 +37,7 @@ chmod 777 ~/lab0/tympole3/cascoon
 cp servine2 ~/lab0/tympole3/cascoon/
 chmod 664 servine2
 chmod 311 tympole3
-chmod 571 cascoon
+chmod 571 ~/lab0/tympole3/cascoon
 
 
 chmod 777 bellsprout3
@@ -60,10 +60,10 @@ chmod 512 bellsprout3
 
 
 chmod 777 bellsprout3
-chmod 777 loudred 
+chmod 777 ~/lab0/bellsprout3/loudred 
 cd bellsprout3
 cat ~/lab0/bellsprout3/loudred ~/lab0/bellsprout3/loudred > ~/lab0/ledian8_91
-chmod u+rw,g+w-rx,o-rwx loudred
+chmod u+rw,g+w-rx,o-rwx ~/lab0/bellsprout3/loudred
 cd ..
 chmod 512 bellsprout3
 
