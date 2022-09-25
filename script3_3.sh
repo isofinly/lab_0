@@ -24,9 +24,10 @@ ln ~/lab0/ledian8 ~/lab0/bellsprout3/vanillishledian
 chmod 404 ledian8
 chmod 512 bellsprout3
 
-cd bellsprout3
+
 chmod 777 bellsprout3
 chmod 777 loudred 
+cd bellsprout3
 cat ~/lab0/bellsprout3/loudred ~/lab0/bellsprout3/loudred > ~/lab0/ledian8_91
 chmod 512 bellsprout3
 chmod u+rw,g+w-rx,o-rwx loudred
