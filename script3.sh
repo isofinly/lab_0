@@ -19,7 +19,7 @@ chmod 755 ~/lab0/cyndaquil6
 
 chmod 777 ~/lab0/ledian8
 chmod 777 bellsprout3
-ln ~/lab0/ledian8 ~/lab0/bellsprout3/vanillishledian/
+ln ~/lab0/ledian8 ~/lab0/bellsprout3/vanillishledian
 chmod 404 ~/lab0/ledian8
 chmod 512 bellsprout3
 
