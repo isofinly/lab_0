@@ -1,4 +1,4 @@
-cd lab0
+cd ~/lab0
 
 chmod 777 tympole3
 chmod 777 bellsprout3
