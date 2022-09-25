@@ -1,6 +1,7 @@
 cd ~/lab0
 
 chmod 777 tympole3
+chmod 777 tympole3/minccino
 chmod 777 bellsprout3
 chmod 777 bellsprout3/charmander
 chmod 777 bellsprout3/accelgor
@@ -26,6 +27,7 @@ chmod 736 scyther
 chmod 512 yanma
 cd .. 
 chmod 512 bellsprout3
+chmod 060 tympole3/minccino
 chmod 311 tympole3
 
 
