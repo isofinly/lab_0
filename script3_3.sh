@@ -29,9 +29,10 @@ chmod 777 bellsprout3
 chmod 777 loudred 
 cd bellsprout3
 cat ~/lab0/bellsprout3/loudred ~/lab0/bellsprout3/loudred > ~/lab0/ledian8_91
+cd ..
 chmod 512 bellsprout3
 chmod u+rw,g+w-rx,o-rwx loudred
-cd ..
+
 
 chmod 777 servine2
 cat ~/lab0/servine2 > ~/lab0/minccinoservine
