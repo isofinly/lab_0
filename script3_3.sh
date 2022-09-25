@@ -1,7 +1,7 @@
 cd lab0
 
 chmod 777 bellsprout3
-chmod 777 bellsprout3/charmander/
+chmod 777 bellsprout3/charmander
 cp -R * bellsprout3 ~/lab0/bellsprout3/charmander/
 chmod 512 bellsprout3
 chmod 577 charmander
