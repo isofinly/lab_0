@@ -8,7 +8,7 @@ touch loudred
 echo "ходы Body Stam Counter
 Defense Curt Double-Edge Dynamicpunch Endeavor Fire Punch Hyper Voice
 Ice Punch Icy Wind Low kick Mega kick Mega Punch Mud-Stap Psych up
-Rollout Seismic Toss Shock Wave Steep таи Snore Thunderpunch Uproar
+Rollout Seismic Toss Shock Wave Steep Talk Snore Thunderpunch Uproar
 Water Putse Zen Headbutt" >>~/lab0/bellsprout3/loudred
 mkdir charmander 
 touch vanillish
