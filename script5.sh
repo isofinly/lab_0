@@ -10,7 +10,6 @@ chmod 311 tympole3
 
 
 chmod 777 cyndaquil6
-chmod 777 cyndaquil6/haxorusledian
 rm -f ~/lab0/cyndaquil6/haxorusledian
 chmod 755 cyndaquil6
 
