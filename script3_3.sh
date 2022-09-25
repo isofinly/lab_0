@@ -2,9 +2,25 @@ cd lab0
 
 chmod 777 bellsprout3
 chmod 777 bellsprout3/charmander
-cp -R * bellsprout3 ~/lab0/bellsprout3/charmander/
-chmod 512 bellsprout3
+chmod 777 bellsprout3/accelgor
+chmod 777 bellsprout3/loudred
+chmod 777 bellsprout3/scyther
+chmod 777 bellsprout3/yanma
+mkdir -p bellsprout3/charmander/bellsprout3 &&                                                                                   
+ln -s charmander bellsprout3/charmander/bellsprout3/charmander &&
+cp -a . bellsprout3/charmander
+cd ~/lab0/bellsprout3/charmander/bellsprout3
+rm charmander
+mkdir charmander
+cd .. 
+cd .. 
+cd .. 
+chmod 006 accelgor
+chmod u+rw,g+w-rx,o-rwx loudred
 chmod 577 charmander
+chmod 736 scyther
+chmod 512 yanma
+chmod 512 bellsprout3
 
 chmod 777 servine2
 cp servine2 ~/lab0/tympole3/cascoon/
