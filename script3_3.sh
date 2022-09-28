@@ -10,7 +10,7 @@ chmod 777 bellsprout3/scyther
 chmod 777 bellsprout3/yanma
 
 cp -r ~/lab0/bellsprout3 /tmp/bellsprout3 && mv /tmp/bellsprout3 ~/lab0/bellsprout3/charmander/
-cd .. 
+# cd .. 
 
 chmod 006 accelgor
 chmod u+rw,g+w-rx,o-rwx loudred
