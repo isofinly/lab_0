@@ -12,7 +12,7 @@ ls -lR 2> /dev/null| sort -k 2 -n | grep ".......... " 2>/dev/null | head
 chmod 777 bellsprout3
 chmod 777 bellsprout3/vanillish
 cat -n ~/lab0/bellsprout3/vanillish | sort -r
-chmod ugo-wx vanillish
+chmod ugo-wx bellsprout3/vanillish
 chmod 512 bellsprout3
 
 
