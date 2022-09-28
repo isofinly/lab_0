@@ -15,6 +15,8 @@ cp -r ~/lab0/bellsprout3 /tmp/bellsprout3 && mv /tmp/bellsprout3 ~/lab0/bellspro
 # cp -a . bellsprout3/charmander 2> /dev/null
 # cd .. 
 
+cd ~/lab0/bellsprout3
+
 chmod 006 accelgor
 chmod u+rw,g+w-rx,o-rwx loudred
 chmod 577 charmander
