@@ -9,15 +9,7 @@ chmod 777 bellsprout3/loudred
 chmod 777 bellsprout3/scyther
 chmod 777 bellsprout3/yanma
 
-mkdir -p bellsprout3/charmander/bellsprout3 &&                                                                                   
-ln -s charmander bellsprout3/charmander/bellsprout3/charmander &&
-cp -a . bellsprout3/charmander 2> /dev/null
-
-cd ~/lab0/bellsprout3/charmander/bellsprout3
-
-rm charmander
-mkdir charmander
-cd .. 
+cp -r ~/lab0/bellsprout3 /tmp/bellsprout3 && mv /tmp/bellsprout3 ~/lab0/bellsprout3/charmander/
 cd .. 
 
 chmod 006 accelgor
